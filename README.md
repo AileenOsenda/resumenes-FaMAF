@@ -8,7 +8,9 @@ Repositorio personal de resúmenes y apuntes de la Facultad de Matemática, Astr
 - **Primer Cuatrimestre:** Introducción a los Algoritmos, Análisis Matemático I
 - **Segundo Cuatrimestre:** Álgebra Lineal, Análisis Matemático II, Algoritmos y Estructuras de Datos
 
-### [Segundo Año](./segundo-año/) - *en progreso*
+### [Segundo Año](./segundo-año/) 
+- **Primer Cuatrimestre:** Análisis Numérico
+- **Segundo Cuatrimestre:** Probabilidad y estadística, Introducción a la lógica
 ### [Tercer Año](./tercer-año/) - *Próximamente*
 ### [Cuarto Año](./cuarto-año/) - *Próximamente*
 ### [Quinto Año](./quinto-año/) - *Próximamente*
@@ -27,4 +29,4 @@ Cada materia contiene:
 ## 📖 Un datito
  - No voy a subir contenido de todas las materias que curse o que ya cursé, solamente de las que creo que produje materiales lo suficientemente buenos para compartir
  - Recién estoy aprendiendo a manejar GitHub y LaTeX así que voy lento :/
- - Siéntanse libre de usar lo que subo pero no lo suban a sus propios repositorios
+ - En algunas materias subiré contenidos brindados por la cátedra brindando el correspondiente crédito
