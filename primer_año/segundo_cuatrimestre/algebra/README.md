@@ -14,9 +14,5 @@ En esta carpeta encontrarás:
 * [Unidad 3, resumen](unidad_3.pdf)
 * [Unidad 4, resumen](unidad_4.pdf)
 
-* []()
-* []()
-* []()
-
 *Proximamente resumenes de la cursada
 *Próximamente Teoremas
