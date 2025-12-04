@@ -18,7 +18,7 @@ El material está organizado por años y cuatrimestres para facilitar la navegac
     * Introducción a la Lógica (a subir)
     * Probabilidad y Estadística
     * 
-* **Siguientes años...próximamente
+* **Siguientes años...próximamente**
 
 ## Nota
 Este material la mayoría es hecho por mí y espero que te ayude. Si encuentras algún error en los resúmenes, ¡no dudes en avisar!
