@@ -12,7 +12,7 @@ El material está organizado por años y cuatrimestres para facilitar la navegac
     * Análisis Matemático II
     * Álgebra
 
-* **Terce cuatrimestre (segundo año)**
+* **Tercer cuatrimestre (segundo año)**
     * Análisis Numérico (a subir)
 * **Cuarto Cuatrimestre (segundo año)**
     * Introducción a la Lógica (a subir)
