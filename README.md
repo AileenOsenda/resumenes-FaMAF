@@ -18,7 +18,7 @@ El material está organizado por años y cuatrimestres para facilitar la navegac
     * Introducción a la Lógica (a subir)
     * Probabilidad y Estadística ✅
  
-  * **Séptimo Cuatrimestre (cuarto año)**
+* **Séptimo Cuatrimestre (cuarto año)**
     * Modelos y Simulación 
 
     * 
