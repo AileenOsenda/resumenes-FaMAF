@@ -7,16 +7,20 @@ Muy buenas! Este repositorio contiene mis apuntes, resúmenes, guías de ejercic
 El material está organizado por años y cuatrimestres para facilitar la navegación:
 
 * **Primer cuatrimestre (primer año)**
-    * Análisis Matemático I
+    * Análisis Matemático I ✅
 * **Segundo Cuatrimestre (primer año)**
-    * Análisis Matemático II
-    * Álgebra
+    * Análisis Matemático II ✅
+    * Álgebra ✅
 
 * **Tercer cuatrimestre (segundo año)**
     * Análisis Numérico (a subir)
 * **Cuarto Cuatrimestre (segundo año)**
     * Introducción a la Lógica (a subir)
-    * Probabilidad y Estadística
+    * Probabilidad y Estadística ✅
+ 
+  * **Séptimo Cuatrimestre (cuarto año)**
+    * Modelos y Simulación 
+
     * 
 * **Siguientes años...próximamente**
 
