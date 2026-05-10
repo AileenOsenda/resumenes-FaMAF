@@ -20,8 +20,7 @@ El material está organizado por años y cuatrimestres para facilitar la navegac
  
 * **Séptimo Cuatrimestre (cuarto año)**
     * Modelos y Simulación 
-
-    * 
+ 
 * **Siguientes años...próximamente**
 
 ## Nota
