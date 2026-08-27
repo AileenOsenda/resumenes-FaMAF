@@ -13,13 +13,18 @@ El material está organizado por años y cuatrimestres para facilitar la navegac
     * Álgebra ✅
 
 * **Tercer cuatrimestre (segundo año)**
-    * Análisis Numérico (a subir)
+    * Análisis Numérico I (a subir)
+    * Algoritmos y Estructuras de Datos II (a subir)
+    * Organización del Computador (a subir)
 * **Cuarto Cuatrimestre (segundo año)**
     * Introducción a la Lógica (a subir)
     * Probabilidad y Estadística ✅
  
 * **Séptimo Cuatrimestre (cuarto año)**
-    * Modelos y Simulación 
+    * Modelos y Simulación (a subir)
+ 
+* **Octavo Cuatrimestre (cuarto año)**
+    * Física (a subir)
  
 * **Siguientes años...próximamente**
 
